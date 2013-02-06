@@ -1,0 +1,11 @@
+.HeaderFont {
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+.links {
+	font-family: Helvetica;
+	font-size: 18;
+}
+
+body {
+	background-image: url(acu.png);
+}
