@@ -1,11 +1,49 @@
 .HeaderFont {
-	font-family: "Arial Black", Gadget, sans-serif;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background: #666;
+	text-align: center;
+	color: #FFF;
+	text-shadow: 1px 1px 5px #000;
 }
 .links {
 	font-family: Helvetica;
 	font-size: 18;
 }
-
-body {
-	background-image: url(acu.png);
+.menu ul li {
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.menu ul {
+	margin: 5px;
+	padding: 10px;
+	float: center;
+}
+.menu li {
+	padding-right: 5px;
+}
+#acu {
+	background-image:url(../acu.png);
+	border-top: 5px solid #424242;
+}
+#homebackground {
+	background: #CCC;
+}
+#hobbiesbackground {
+	background: #363;
+}
+#border {
+	border: solid #333;
+}
+.container {
+	background: #9B272A;
+	width: 600;
+	padding-left: 15px;
+	margin: 5px;
+}
+#homeportrait {
+	padding: 25px;
+}
+#portbackground {
+	background-color: #F66;
+	color: #OOO;
 }
