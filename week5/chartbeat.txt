@@ -1,0 +1,9 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 Chartbeat is a real time data analysis service for your website, but unless you look into it a little bit and read a lot about the site you wouldn't know that. I would say the primary problem with their website is that they don't just come out and say that they track people visiting your site and how long they're engaged in your site. Instead, they say things like "For people who get it done." To me, that doesn't tell you much and doesn't draw people to your site, if they're frustrated with how to use it.\
+\
+Another thing, the third section of the page as you scroll down has some glitchy symbols, and the animation as you scroll is a little strange. On the fourth section, the bubble that tells you if you're 'reading', 'writing', or 'idle' doesn't seem to work because as I was actively scrolling and reading through the page, it said i was idle the whole time. I also think they should add a little more animation to the second section of the page to make it more consistent with the rest of they page since the other sections have quite a bit of moving pieces.}
