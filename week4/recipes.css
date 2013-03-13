@@ -1,6 +1,5 @@
 body {
 	background: #0C9;
-	border-top: 5px solid #424242;
 	margin: 0;
 	font-family: "helvetica", sans-serif;
 	line-height: 1.4em;
@@ -11,8 +10,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	margin: 0;
-	background: #777;
+	background-color: #999
 	padding: 20px 15px;
 	color: #fff;
 	text-shadow: 1px 1px 2px #424242;
@@ -23,8 +21,7 @@ h3 {
 }
 
 .container {
-	background: #06F;
-	width: 600;
+	width: 800;
 	margin: 0 auto;
 }
 

@@ -1,0 +1,94 @@
+.HeaderFont {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	background: #666;
+	text-align: center;
+	color: #FFF;
+	text-shadow: 1px 1px 5px #000;
+}
+.links {
+	font-family: Helvetica;
+	font-size: 18;
+}
+.menu ul li {
+	display: inline;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.menu ul {
+	margin: 5px;
+	padding: 10px;
+	float: center;
+}
+.menu li {
+	padding-right: 5px;
+}
+#menu ul li {
+	display: inline;
+	float: center;
+}
+#menu ul {
+	margin: 5px;
+	padding: 10px;
+	float: left;
+}
+#menu li {
+	padding-right: 5px;
+}
+#acu {
+	background-image:url(../acu.png);
+	border-top: 5px solid #424242;
+}
+#homebackground {
+	background:url(../diamond_upholstery.png);
+}
+#hobbiesbackground {
+	background: #363;
+}
+#border {
+	border: solid #333;
+	clear: both;
+}
+.container {
+	background: #9B272A;
+	width: 800;
+	height: 800px;
+	padding-left: 15px;
+	margin: 5px;
+}
+#homeportrait {
+	padding: 25px;
+	float: left;
+}
+#portbackground {
+	background-color: #F66;
+	color: #OOO;
+}
+#spartanLogo {
+	float: left;	
+}
+#rotcP1 {
+	clear:both;
+}
+
+article {
+	width: 220px;
+	padding: 10px;
+	margin: 10px;
+	float: left;
+	background: #663;
+	opacity: .8;	
+}
+#homepagestuff {
+	float: left;	
+}
+#portPort {
+	float: left;
+	padding: 2px;	
+}
+#sportsPara {
+	clear: both;
+}
+#rotc {
+	padding: 15px;
+	background: #fff url(images/yum.jpg) no-repeat;
+	border-top: 10px solid #222;	
+}
