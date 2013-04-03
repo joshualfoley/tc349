@@ -1,0 +1,11 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 The MSU Mobile Site does not appear to be finished, or if it is, they've done a very poor job. The site appears to have been designed by someone with very basic HTML knowledge. It's simple grey background and green icons make it very boring to look at and not very intriguing at all. It simply has a plain header, search bar, and 10 buttons for searching.\
+\
+Certain buttons you click on simply bring you to an empty page with a search bar which isn't very intuitive or helpful. The Athletics button brings you to a page displaying certain sports, but not all. And when you click on the sports; for instance football or basketball, it just takes you to a page that just says "football" or "basketball." Not much to see there at all if you ask me.\
+\
+The mobile site could be greatly improved upon, or simply finished and kept up to date, there are only certain sub pages that seem to work completely, like the people one. Others are just incomplete and lacking in appearance and usability, like the athletics one.}
