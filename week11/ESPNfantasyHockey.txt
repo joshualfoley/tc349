@@ -1,0 +1,10 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1187\cocoasubrtf340
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs24 \cf0 The mobile site I chose to do look at is the ESPN Fantasy Hockey site. The first thing I notice is that there is a ton of small text and lots of different sections of text and pictures. Its like they are trying to fit too much into the page that should ideally just display the main content of the site. There are many ads that are too small to read. The screens on the phones are small, so, not adjusting the text on the site makes it dysfunctional. Whenever a site has color or images, it's important that they're displayed correctly on the mobile device if they're to have any impact on the user. The headers and general layout of the site are very similar how they are when viewed on a web browser on a laptop. The content is well adjusted to fit the screen and the main content is \
+\
+The main part I like about the website is that there is a pop out window on the site you can click on and it goes to something called Fantasy Cast. This is where you can see your daily line ups of who on your team is playing as well as which players your opponent is having in his lineup. It really is a good layout and shows you all the main points you need to know- the schedule of the games that night, who is playing for you and your opponent, as well as how many points each player has today and how they got them. The one thing I don't like on that pop out window is that in order to see both scores (you and your opponents) side by side so you can see who is in the lead, you have to turn your phone horizontally. It would be much faster to view the score page if you were able to see both of the scores without rearranging your phone. The width should be adjusted so that the scores are displayed in a standard position.}
