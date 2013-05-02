@@ -66,6 +66,10 @@ article {
 	clear: both;	
 }
 
+#welcome {
+	text-wrap: normal;	
+}
+
 @media (max-width: 320px) {
 	.container {
 		width: 100%;
