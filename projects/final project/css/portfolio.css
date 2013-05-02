@@ -1,5 +1,5 @@
 body {
-	background: url(images/white_wall.png);
+	background: url(../images/white_wall.png);
 	margin: 0;
 	font-family: "news-gothic-std-1","news-gothic-std-2";
 	line-height: 1.4em;
@@ -10,7 +10,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	background: url(images/port.png) no-repeat center top;
+	background: url(../images/port.png) no-repeat center top;
 	height: 100px;
 	width: 800px;
 	text-indent: -9000px;
@@ -42,7 +42,7 @@ hgroup {
 
 #recipes {
 	padding: 8px 0 0 15px;
-	background: #fff url(images/msu.png) no-repeat;
+	background: #fff url(../images/msu.png) no-repeat;
 	border-top: 10px solid #222;
 	box-shadow: 0 0 20px #424242;
 }

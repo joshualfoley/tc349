@@ -1,5 +1,5 @@
 body {
-	background: url(images/nasty_fabric.png);
+	background: url(../images/mochaGrunge.png);
 	margin: 0;
 	font-family: "news-gothic-std-1","news-gothic-std-2";
 	line-height: 1.4em;
@@ -10,7 +10,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	background: url(images/F.png) no-repeat center top;
+	background: url(../images/spartan.png) no-repeat center top;
 	height: 100px;
 	width: 800px;
 	text-indent: -9000px;
@@ -42,7 +42,7 @@ hgroup {
 
 #recipes {
 	padding: 15px;
-	background: #fff url(images/blackyellow.png) no-repeat;
+	background: #fff url(../images/army.png) no-repeat;
 	border-top: 10px solid #222;
 	box-shadow: 0 0 20px #424242;
 }
@@ -63,11 +63,21 @@ article {
 }
 
 #link {
-	clear: both;	
+	clear: both;
+	margin: 10px 10px 0 10px;
 }
 
-#welcome {
-	text-wrap: normal;	
+table, tr, td {
+	border: 1px solid #ccc;
+	border-collapse: collapse;
+}
+
+table td {
+	padding: 5px;
+}
+
+#rotcP1 {
+	clear:both;
 }
 
 @media (max-width: 320px) {
